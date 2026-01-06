@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://tropicamvoyage.ma/sitemap.xml
+
+# Disallow admin and private areas (if any)
+Disallow: /admin/
+Disallow: /api/
+
+# Allow all pages for SEO
+Allow: /morocco-tours
+Allow: /marrakech-tours
+Allow: /sahara-desert-tours
+Allow: /fes-tours
+Allow: /casablanca-tours
+Allow: /chefchaouen-tours
+Allow: /voyage-turquie
+Allow: /voyage-dubai
+Allow: /omra-2025
+
+
